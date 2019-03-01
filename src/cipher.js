@@ -24,6 +24,5 @@ window.cipher = {
     }
   
   return newTexto;
-
   }
 };

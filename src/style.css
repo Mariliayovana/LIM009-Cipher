@@ -1,1 +1,7 @@
 /* Acá va tu código */
+body {
+color: black blue;
+background-image: url(https://www.denverpost.com/wp-content/uploads/2017/01/police.jpg?w=794);
+border: 1px solid black;
+text-align: center;
+}   
