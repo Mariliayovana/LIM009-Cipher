@@ -1,7 +1,38 @@
 /* Acá va tu código */
 body {
-color: black blue;
-background-image: url(https://www.denverpost.com/wp-content/uploads/2017/01/police.jpg?w=794);
-border: 1px solid black;
-text-align: center;
+    color: black blue;
+    background-image: url(https://www.denverpost.com/wp-content/uploads/2017/01/police.jpg);
+    text-align: center;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:  column ;
 }   
+h1 {
+    color : rgb(26, 206, 230) ;
+    font-size : 50pt ;
+    font-family: 'Open Sans', sans-serif;
+}
+ input{
+     margin: 20px ;
+     padding: 20px ;
+     border-radius: 5px;
+     border: 0;
+     margin: 10px;
+ }
+ button{
+     width: 390px;
+     padding: 10px ;
+     border-radius: 5px;
+     border: 0 ;
+     margin:10px ;
+ }
+ div{
+     display: flex ;
+     flex-direction: column;
+ }
+ P{
+     color: wheat;
+     font-size: 15pt;
+ }
