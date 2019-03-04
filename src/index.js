@@ -2,7 +2,6 @@ let cifrado = document.getElementById('cifrado');
 let porCifrar = document.getElementById ("porCifrar");
 let numero = document.getElementById("numero");
 let boton = document.getElementById('boton');
-let mensaje =  document.getElementById("mensaje");
 let botonDecifrar = document.getElementById("botonDecifrar")
 
 boton.addEventListener('click', ()  =>{

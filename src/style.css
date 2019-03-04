@@ -28,11 +28,16 @@ h1 {
      border: 0 ;
      margin:10px ;
  }
+ button:hover{
+     background-color: red;
+     color: blue
+
+ }
  div{
      display: flex ;
      flex-direction: column;
  }
  P{
-     color: wheat;
-     font-size: 15pt;
+     color: rgb(224, 186, 115);
+     font-size: 40pt;
  }
